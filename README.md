@@ -34,15 +34,20 @@ js-server-client/
    
    ```sh
    npm install
-   ```sh
+   ```
 
 3. **Start the Node.js Server:**
    ```sh
    node server.js
-   ```sh
+   ```
    The server will start and run at `http://localhost:3000`.
 
-3. **Start the Node.js Server:** 
+3. **Serve the Client HTML:**
+   In another terminal, run the following command to serve the client HTML using `http-server`:
+   ```sh
+   http-server
+   ```
+   By default, `http-server` will start at `http://localhost:8080`.
 
 
 
