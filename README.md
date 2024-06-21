@@ -3,7 +3,7 @@
 This repository contains a basic client-server setup using Node.js and Express. The server provides a simple API endpoint to serve text data and images, while the client fetches and displays this data.
 
 ## Project Structure
-
+```bash
 js-server-client/
 ├── node_modules/
 ├── public/
@@ -14,7 +14,7 @@ js-server-client/
 ├── package.json
 ├── server.js
 └── index.html
-
+```
 
 ## Prerequisites
 
