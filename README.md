@@ -11,6 +11,7 @@ js-server-client/
 │ ├── image1.jpg
 │ ├── image2.jpg
 │ └── image3.jpg
+├── package-lock.json
 ├── package.json
 ├── server.js
 └── index.html
@@ -29,3 +30,34 @@ js-server-client/
    git clone https://github.com/yourusername/js-server-client.git
    cd js-server-client
    ```
+2. **Install Dependencies:**
+   
+   ```sh
+   npm install
+   ```sh
+
+3. **Start the Node.js Server:**
+   ```sh
+   node server.js
+   ```sh
+   The server will start and run at `http://localhost:3000`.
+
+3. **Start the Node.js Server:** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
